@@ -1,7 +1,7 @@
 ---
 layout: coursepage
 title: Math 20-1 
-description: Questions, links, materials, and more
+description: Mr. Merrick - 2022
 show_downloads: FALSE
 
 ---
