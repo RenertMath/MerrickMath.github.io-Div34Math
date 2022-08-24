@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: 2022 Math Timeline
+title: Math Timeline 2022
 
 --- 
 
