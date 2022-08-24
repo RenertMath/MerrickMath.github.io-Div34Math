@@ -1,12 +1,12 @@
 ---
 layout: coursepage
-title: Math 20-1 
-description: Mr. Merrick - 2022
+title: Math 20-1 2022-2023
+description: Mr. Merrick 
 show_downloads: FALSE
 
 ---
 <!--- ### MATH 20-1 SECTION  ### --->
-Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remeber to frquently chekc this site for updates. 
+Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remeber to frequently check this page for updates. 
 
 ### Homework 
 <!--- 
