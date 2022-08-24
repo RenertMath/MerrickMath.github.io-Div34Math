@@ -20,6 +20,9 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 ### In Class Materials 
 
+#### Mini Math 
+
+#### Deep Thoughts 
 
 <!--- ### MATH 30-1 SECTION  ### ---> 
 <!---
