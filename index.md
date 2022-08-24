@@ -9,6 +9,13 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remeber to frquently chekc this site for updates. 
 
 ### Homework 
+<!--- 
+### September 1 - September 
+* Watch List:  
+    * Review any outstanding material. 
+
+A timeline of previous posts may be found <a href="https://merrickMath.github.io/"> here. </a>
+---> 
 
 ### In Class Materials 
 
