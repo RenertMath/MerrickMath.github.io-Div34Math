@@ -13,9 +13,10 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### September 1 - September 
 * Watch List:  
     * Review any outstanding material. 
-
-A timeline of previous posts may be found <a href="https://merrickMath.github.io/"> here. </a>
 ---> 
+
+A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
+
 
 ### In Class Materials 
 
