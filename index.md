@@ -1,6 +1,6 @@
 ---
 layout: coursepage
-title: Math 20-1 2022-2023
+title: Math 20-1 
 description: Mr. Merrick 
 show_downloads: FALSE
 
