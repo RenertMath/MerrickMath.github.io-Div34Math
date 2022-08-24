@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: coursepage
 title: Math 20-1 
 description: Questions, links, materials, and more
 show_downloads: FALSE
