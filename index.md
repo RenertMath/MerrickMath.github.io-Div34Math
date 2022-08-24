@@ -1,3 +1,11 @@
+---
+layout: default
+title: AP Statistics
+description: Questions, links, materials, and more
+show_downloads: FALSE
+
+---
+
 *"The enchanting charms of this sublime science reveal only to those who have the courage to go deeply into it."* - Carl Friedrich Gauss
 
 <div class="row">
