@@ -24,6 +24,8 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 #### Deep Thoughts 
 
+#### Additional Practice 
+
 <!--- ### MATH 30-1 SECTION  ### ---> 
 <!---
 ### Homework 
