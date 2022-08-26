@@ -30,6 +30,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 * Radical and Rational Functions Test: 
 * Polynomials Test: 
 ---> 
+
 ### In Class Materials 
 
 #### Mini Math 
