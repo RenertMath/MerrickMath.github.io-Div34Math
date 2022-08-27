@@ -17,6 +17,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 ### Important Dates 
 * Factoring and Applications Test: September 14
+
 <!--- 
 * Radicals, Rational Expressions and Equations Test: 
 * Sequences and Series Test: 
