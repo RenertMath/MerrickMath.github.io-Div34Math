@@ -16,7 +16,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
 
 ### Important Dates 
-* Factoring and Applications Test: September 14
+* Factoring and Applications Test: **September 14**
 
 <!--- 
 * Radicals, Rational Expressions and Equations Test: 
