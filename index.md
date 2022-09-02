@@ -11,7 +11,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### Homework
 #### September 5 - September 9  
 * Complete factoring polynomials handout.  
-* Complete Math 20 book assignment 
+* Complete Math 20 book assignment pg. 227-229
 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
 
@@ -33,6 +33,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 ---> 
 
 ### In Class Materials 
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout. </a>
 
 #### Mini Math 
 
