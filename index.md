@@ -33,13 +33,13 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 ---> 
 
 ### In Class Materials 
-* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout. </a>
 
 #### Mini Math 
 
-#### Deep Thoughts 
+#### Think It Through  
 
 #### Additional Practice 
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout. </a>
 
 <!--- ### MATH 30-1 SECTION  ### ---> 
 <!---
