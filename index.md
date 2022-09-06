@@ -37,6 +37,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 #### Mini Math 
 
 #### Think It Through  
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7.pdf"> September 7. </a>
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout.
