@@ -11,15 +11,14 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### Homework
 #### September 5 - September 9  
 * Complete factoring polynomials handout.  
-* Complete Math 20 book assignment pg. 227-229
+* Complete Math 20 book assignments pg. 227-229, pg. 235-240, pg. 244-248, pg. 251-256 (note that in these assignments some problems have a),b),c),d) that are all the same/similar, you only need to do enough that you feel confident with the strategy. 
 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
 
 ### Important Dates 
-* Factoring and Applications Test: 
+* Factoring, Applications, Radicals, Rational Expressions and Equations Test:
 
-<!--- 
-* Radicals, Rational Expressions and Equations Test: 
+<!---  
 * Sequences and Series Test: 
 * Transformations Test: 
 * Quadratics Functions and Equations Test: 
