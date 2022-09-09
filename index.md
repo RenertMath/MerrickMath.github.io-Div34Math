@@ -40,6 +40,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 #### Think It Through  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7.pdf"> September 7 </a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7Soln.pdf"> September 7 Solutions </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September9.pdf"> September 9 </a>
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout.
