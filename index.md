@@ -16,9 +16,10 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
 
 ### Important Dates 
-* Factoring, Radicals, Rational Expressions/Equations Test:
+* Factoring, and Radicals Test:
 
 <!---  
+* Rational Expressions/Equations
 * Sequences and Series Test: 
 * Transformations Test: 
 * Quadratics Functions and Equations Test: 
@@ -38,6 +39,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 #### Think It Through  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7.pdf"> September 7 </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7Soln.pdf"> September 7 Solutions </a>
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout.
