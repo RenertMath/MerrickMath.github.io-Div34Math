@@ -9,6 +9,11 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remeber to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+<!--- 
+#### September 11 - September 16  
+* Complete Math 20 book assignments pg. 227-229, pg. 235-240, pg. 244-248, pg. 251-256 (note that in these assignments some problems have a),b),c),d) that are all the same/similar, you only need to do enough that you feel confident with the strategy. 
+
+--->
 #### September 5 - September 11  
 * Complete factoring polynomials handout.  
 * Complete Math 20 book assignments pg. 227-229, pg. 235-240, pg. 244-248, pg. 251-256 (note that in these assignments some problems have a),b),c),d) that are all the same/similar, you only need to do enough that you feel confident with the strategy. 
