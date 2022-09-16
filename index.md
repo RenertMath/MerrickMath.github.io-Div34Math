@@ -49,6 +49,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7.pdf"> September 7</a>: Factoring and applications
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7Soln.pdf"> September 7 Solutions </a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September9.pdf"> September 9</a>: Factoring and applications
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September9Soln.pdf"> September 9 Solutions</a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September14.pdf"> September 14</a>: Solving quadratic equations and radicals problem 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September14Soln.pdf"> September 14 Solutions </a>  
 
