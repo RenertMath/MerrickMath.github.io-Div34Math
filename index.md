@@ -54,7 +54,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout.
-* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/TenYear.pdf"> Ten year anniversary puzzle. </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/TenYear.pdf"> Ten year anniversary puzzle </a>
 
 <!--- ### MATH 30-1 SECTION  ### ---> 
 <!---
