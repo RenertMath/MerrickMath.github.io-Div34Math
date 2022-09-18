@@ -10,8 +10,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 
 ### Homework
 <!---
-#### September 16 - September 25  
-* Complete Math 20 book assignments pg.  (note that in these assignments some problems have a),b),c),d) that are all the same/similar, you only need to do enough that you feel confident with the strategy. 
+#### September 18 - September 28 
+* Complete Math 20 book assignments pg. 260-264, 269-274, 277-284, 285-290 (note that in these assignments some problems have a),b),c),d) that are all the same/similar, you only need to do enough that you feel confident with the strategy. 
 --->
 
 #### September 11 - September 16  
