@@ -51,6 +51,8 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September9Soln.pdf"> September 9 Solutions</a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September14.pdf"> September 14</a>: Solving quadratic equations and radicals problem 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September14Soln.pdf"> September 14 Solutions </a>  
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September18.pdf"> September 18: Radical Equations </a>  
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September18Soln.pdf"> September 18 Solutions </a> 
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout.
