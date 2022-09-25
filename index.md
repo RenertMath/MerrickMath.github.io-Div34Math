@@ -43,6 +43,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 #### Mini Math 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/MiniMath/September9.pdf"> September 9 </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/MiniMath/September9Soln.pdf"> September 9 Solutions </a>
 
 #### Think It Through  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September7.pdf"> September 7</a>: Factoring and applications
