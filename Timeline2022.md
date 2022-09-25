@@ -5,7 +5,7 @@ description:
 
 --- 
 
-#### Unit 2 - Sequences and Series
+### Unit 2 - Sequences and Series
 
 
 ### Unit 1 - Factoring, and Radicals 
