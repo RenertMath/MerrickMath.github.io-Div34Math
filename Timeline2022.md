@@ -6,7 +6,9 @@ description:
 --- 
 
 ### Unit 2 - Sequences and Series
-
+September 30 - October 7
+* Arithmetic sequences and series
+* Complete Math 20 book assignments pg. 6-12, pg. 19-24, pg. 37-42 
 
 ### Unit 1 - Factoring, and Radicals 
 #### September 18 - September 28 
