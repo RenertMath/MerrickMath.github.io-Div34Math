@@ -50,6 +50,8 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September18.pdf"> September 18</a>: Radical Equations  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September18Soln.pdf"> September 18 Solutions </a> 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September29.pdf"> September 29</a>: Arithmetic Sequences and Series 
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/September29Soln.pdf"> September 29 Solutions</a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/October5.pdf"> October 5</a>: Series and Sequences
 
 
 #### Additional Practice 
