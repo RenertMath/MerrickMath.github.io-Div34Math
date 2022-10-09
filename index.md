@@ -10,7 +10,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 
 ### Homework
 October 8 - October 14
-* Complete Math 20 book assignments pg. 
+* Complete Math 20 book assignments pg. 47-52, 57-62, 67-74, 79-84
 
 September 30 - October 7
 * Complete Math 20 book assignments pg. 6-12, pg. 19-24, pg. 37-42 
