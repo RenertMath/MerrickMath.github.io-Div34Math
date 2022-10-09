@@ -9,8 +9,11 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+October 8 - October 14
+* Complete Math 20 book assignments pg. 
+* Complete all think it through assignments 
+
 September 30 - October 7
-* Arithmetic sequences and series
 * Complete Math 20 book assignments pg. 6-12, pg. 19-24, pg. 37-42 
 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
