@@ -19,7 +19,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 
 ### Important Dates 
 * Factoring, and Radicals Test: September 28
-* Sequences and Series Test: October 17
+* Sequences and Series Test: October 19
 
 <!---  
 * Transformations Test: 
