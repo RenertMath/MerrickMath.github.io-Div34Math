@@ -9,6 +9,10 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+October 15 - October 21
+* Sequences and series test
+* Start transformations handout 
+
 October 8 - October 14
 * Complete Math 20 book assignments pg. 47-52, 57-62, 67-74, 79-84
 
