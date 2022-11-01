@@ -20,7 +20,7 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 ### Important Dates 
 * **Factoring, and Radicals Test:** September 28
 * **Sequences and Series Test:** October 19
-* **Transformations Unit Test:** To tbe written the week of November 14-18 in testing center
+* **Transformations Test:** To tbe written the week of November 14-18 in testing center
 
 <!---  
 * Transformations Test: 
