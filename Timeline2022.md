@@ -5,6 +5,10 @@ description:
 
 --- 
 
+### Unit 3 - Transformations 
+#### October 31 - November 13
+* Finish ENTIRE trasnformations handout. 
+
 ### Unit 2 - Sequences and Series
 #### October 15 - October 21
 * Sequences and series test
