@@ -9,24 +9,18 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### October 31 - November 13
+* Finish ENTIRE trasnformations handout. 
+
 #### October 22 - October 31
 * Transformation handout pg. 1-30
-
-#### October 15 - October 21
-* Sequences and series test
-* Start transformations handout 
-
-##### October 8 - October 14
-* Complete Math 20 book assignments pg. 47-52, 57-62, 67-74, 79-84
-
-#### September 30 - October 7
-* Complete Math 20 book assignments pg. 6-12, pg. 19-24, pg. 37-42 
 
 A timeline of previous posts may be found <a href="https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Timeline2022.html"> here. </a>
 
 ### Important Dates 
 * Factoring, and Radicals Test: September 28
 * Sequences and Series Test: October 19
+* Transformations Unit Test: 
 
 <!---  
 * Transformations Test: 
