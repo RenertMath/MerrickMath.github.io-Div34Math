@@ -57,8 +57,8 @@ A timeline of previous posts may be found <a href="https://merrickmath.github.io
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/October5Soln.pdf"> October 5 Solutions</a> 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/October12.pdf"> October 12</a>: Sequences and Series  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/October12Soln.pdf"> October 12 Solutions</a>  
-* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16.pdf"> November 16</a>: Transformations **PLEASE NOTE THERE IS A TYPO WITH PROBLEM 4 (stretch by a)** 
-* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16Soln1.pdf"> November 16 Solutions</a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16.pdf"> November 16</a>: Transformations  
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16Soln2.pdf"> November 16 Solutions</a>
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout </a>
