@@ -9,12 +9,15 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### November 21 - 27 
+* Complete Math 20 book assignments pg. 296-299, 306-308, 313-316, 319-323
 
 
 ### Important Dates 
 * **Factoring, and Radicals Test:** September 28
 * **Sequences and Series Test:** October 19
-* **Transformations Test:** To tbe written November 18-25 in testing center
+* **Transformations Test:** To be written November 18-25 in testing center
+* **Quadratic Functions and Equations Test:** December 7 
 
 <!---  
 * Transformations Test: 
