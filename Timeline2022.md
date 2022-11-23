@@ -4,6 +4,9 @@ title: Math Timeline 2022
 description: 
 
 --- 
+### Unit 4 - Quadratic Functions and Equations 
+#### November 21 - 27 
+* Complete Math 20 book assignments pg. 296-299, 306-308, 313-316, 319-323
 
 ### Unit 3 - Transformations 
 #### October 31 - November 13
