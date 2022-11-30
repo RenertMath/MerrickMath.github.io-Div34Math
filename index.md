@@ -60,6 +60,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/October12Soln.pdf"> October 12 Solutions</a>  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16.pdf"> November 16</a>: Transformations  
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November16Soln2.pdf"> November 16 Solutions</a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November30.pdf"> November 30</a>: Quadratric equation problems and word problems  
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/November30Soln.pdf"> November 30 Solutions</a>
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout </a>
