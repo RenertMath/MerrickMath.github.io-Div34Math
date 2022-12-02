@@ -20,8 +20,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### Important Dates 
 * **Factoring, and Radicals Test:** September 28
 * **Sequences and Series Test:** October 19
-* **Transformations Test:** To be written November 18-25 in testing center
-* **Quadratic Functions and Equations Test:** December 7 
+* **Transformations Test:** To be written November 18-25 in testing centre
+* **Quadratic Functions and Equations Test:** To be written December 7-10 in testing centre
 
 <!---  
 * Transformations Test: 
