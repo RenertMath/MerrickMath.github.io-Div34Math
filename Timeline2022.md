@@ -4,7 +4,18 @@ title: Math Timeline 2022
 description: 
 
 --- 
+
+### Unit 5 - Linear and Quadratic Inequalities
+#### December 5 - 11
+* Quadratic practice test (blue book). 
+* Think it through assignments
+* Complete Math 20 book assignments pg. 504-508, 510-514, 518-522.
+
 ### Unit 4 - Quadratic Functions and Equations 
+#### November 28 - December 3 
+* Complete Math 20 book assignments pg. 328-331, pg. 336-338, pg. 343-346, pg. 349-352, pg. 358-362 
+* Complete Think It Through assignment (given in class) 
+
 #### November 21 - 27 
 * Complete Math 20 book assignments pg. 296-299, 306-308, 313-316, 319-323
 
