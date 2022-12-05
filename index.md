@@ -27,6 +27,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Sequences and Series Test:** October 19
 * **Transformations Test:** To be written November 18-25 in testing centre
 * **Quadratic Functions and Equations Test:** To be written December 7-10 in testing centre
+* **Linear and Quadratic Inequalities Test:** To be written December 19 - 23 in testing centre
 
 <!---  
 * Transformations Test: 
