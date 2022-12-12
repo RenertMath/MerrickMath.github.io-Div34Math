@@ -11,6 +11,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### Homework
 #### December 21 - January 5
 * Inequalities Practice Test (Blue Book) 
+* Complete Math 20 book assignments pg. 453-456, 461-466, 468-472, 475-478
 
 #### December 12 - 21
 * Think it through assignments
