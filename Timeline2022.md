@@ -6,6 +6,15 @@ description:
 --- 
 
 ### Unit 5 - Linear and Quadratic Inequalities
+
+#### December 21 - January 5
+* Inequalities Practice Test (Blue Book) 
+* Complete Math 20 book assignments pg. 453-456, 461-466, 468-472, 475-478
+
+#### December 12 - 21
+* Think it through assignments
+* Complete Math 20 book assignments pg. 525 - 528, 531-534, 538-542, 546-550. 
+
 #### December 5 - 11
 * Quadratic practice test (blue book). 
 * Think it through assignments
