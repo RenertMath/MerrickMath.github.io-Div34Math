@@ -11,7 +11,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 ### Homework
 #### January 9 - January 15 
 * Catchup on all oustanding homeowork. 
-* Complete Math 20 book assignments pg. 453-456, 461-466, 468-472, 475-478
+* Think it through assignment 
 
 
 ### Important Dates 
