@@ -20,7 +20,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Transformations Test:** To be written November 18-25 in testing centre
 * **Quadratic Functions and Equations Test:** To be written December 7-10 in testing centre
 * **Linear and Quadratic Inequalities Test:** To be written December 19 - 31 in testing centre
-* **Absolute Value Functions and Rational Functions Test:** 
+* **Absolute Value Functions and Rational Functions Test:** January 23 
 
 <!---  
 * Transformations Test: 
