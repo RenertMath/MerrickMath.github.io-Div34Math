@@ -79,6 +79,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/December5Soln.pdf"> December 5 Solutions</a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January11.pdf"> January 11 </a>: Absolute value graphs and equations 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January11Soln.pdf"> January 11 Solutions </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January18.pdf"> January 18 </a>: Absolute value and Reciprocal Graphs 
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout </a>
