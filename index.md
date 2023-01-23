@@ -9,6 +9,9 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### January 23 - January 29
+* Complete Math 20 book assignments 
+
 #### January 16 - January 22
 * Complete Math 20 book assignments pg. 484-489, 493-499
 * Think it through assignment 
@@ -16,6 +19,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 #### January 9 - January 15 
 * Catchup on all oustanding homeowork. 
 * Think it through assignment 
+
+
 
 
 ### Important Dates 
