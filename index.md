@@ -9,9 +9,11 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### January 30 - February 3
+* Complete Math 20 book assignments pg. 184-187, 192-196, 202-204, 210-214, Trig Practice Test (Note that circle geometry theorems will not be tested on the exam).
+
 #### January 23 - January 29
 * Complete Math 20 book assignments pg. 140-146, 152-155, 161-165, 174 - 179. 
-* Think it through assignment 
 
 #### January 16 - January 22
 * Complete Math 20 book assignments pg. 484-489, 493-499
