@@ -33,7 +33,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Quadratic Functions and Equations Test:** To be written December 7-10 in testing centre
 * **Linear and Quadratic Inequalities Test:** To be written December 19 - January 11 in testing centre
 * **Absolute Value Functions and Rational Functions Test:** January 23 - 29 in testing centre 
-* **Trigonometry Unit Test:**
+* **Trigonometry Unit Test:** February 5-11 in testing centre (or Feb 8 in class)
 * **Function Operations Unit Test:**
 * **Radical and Rational Functions Unit Test:**
 * **Polynomials Unit Test:**
