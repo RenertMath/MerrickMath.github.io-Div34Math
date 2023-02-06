@@ -7,6 +7,20 @@ description:
 
 ### Unit 6 - Trigonometry
 
+#### January 30 - February 3
+* Complete Math 20 book assignments pg. 184-187, 192-196, 202-204, 210-214, Trig Practice Test (Note that circle geometry theorems will not be tested on the exam).
+
+#### January 23 - January 29
+* Complete Math 20 book assignments pg. 140-146, 152-155, 161-165, 174 - 179. 
+
+#### January 16 - January 22
+* Complete Math 20 book assignments pg. 484-489, 493-499
+* Think it through assignment 
+
+#### January 9 - January 15 
+* Catchup on all oustanding homeowork. 
+* Think it through assignment 
+
 
 ### Unit 5 - Linear and Quadratic Inequalities
 
