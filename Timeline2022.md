@@ -5,6 +5,9 @@ description:
 
 --- 
 
+### Unit 6 - Trigonometry
+
+
 ### Unit 5 - Linear and Quadratic Inequalities
 
 #### December 21 - January 5
