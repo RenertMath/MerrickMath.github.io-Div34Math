@@ -9,6 +9,9 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### February 28 - 5 
+* Finish Radicals Handout. 
+
 #### February 13 - 26 
 * Finish Functions Handout.
  
