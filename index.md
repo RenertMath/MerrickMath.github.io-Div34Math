@@ -9,8 +9,8 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
-#### March 12 - 19
-* Math 30 book pages: 
+#### March 12 - 24
+* Math 30 book pages: 444-446, 451-454, 461-464, 469-472, 477-480, 483-486, 487-494.
 
 #### March 6 - 12
 * Finish Radicals Handout. 
