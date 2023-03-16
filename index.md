@@ -82,6 +82,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January11Soln.pdf"> January 11 Solutions </a>
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January18.pdf"> January 18 </a>: Absolute Value / Reciprocal Functions
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/January18Soln.pdf"> February 8 Solutions </a>
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/March16.pdf"> March 15 </a>: Rational Equation Word Problems with Rates.
+* <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/DeepThoughts/March16Soln.pdf"> March 15 Solutions </a> 
 
 #### Additional Practice 
 * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/Misc/Factoring.pdf"> Factoring Handout </a>
