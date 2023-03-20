@@ -9,6 +9,9 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### March 20-26
+* Math 20 book pages 374-376, 379-383, 388-392, 395-401, 404-408, 412-416, 420-424, 427-430, 432-437, Practice test is optional. 
+
 #### March 12 - 19
 * Math 30 book pages: 444-446, 451-454, 461-464, 469-472, 477-480, 483-486, 487-494.
 
@@ -33,8 +36,8 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Linear and Quadratic Inequalities Test:** To be written December 19 - January 11 in testing centre
 * **Absolute Value Functions and Rational Functions Test:** January 23 - 29 in testing centre 
 * **Trigonometry Unit Test:** February 5-11 in testing centre (or Feb 8 in class)
-* **Function Operations Unit Test:**
-* **Radical and Rational Functions Unit Test:**
+* **Function Operation and Radicals Unit Test: March 22 - March 31**
+* **ational Functions Unit Test: April 1 - April 7**
 * **Polynomials Unit Test:**
 
 <!---  
