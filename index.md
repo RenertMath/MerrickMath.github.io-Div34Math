@@ -9,7 +9,7 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
-#### March 20-26
+#### March 20-24
 * Math 20 book pages 374-376, 379-383, 388-392, 395-401, 404-408, 412-416, 420-424, 427-430, 432-437, Practice test is optional. 
 
 #### March 12 - 19
