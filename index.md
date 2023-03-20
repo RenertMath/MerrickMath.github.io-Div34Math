@@ -37,7 +37,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Absolute Value Functions and Rational Functions Test:** January 23 - 29 in testing centre 
 * **Trigonometry Unit Test:** February 5-11 in testing centre (or Feb 8 in class)
 * **Function Operation and Radicals Unit Test: March 22 - March 31**
-* **ational Functions Unit Test: April 1 - April 7**
+* **Rational Functions Unit Test: March 20 - April 7**
 * **Polynomials Unit Test:**
 
 <!---  
