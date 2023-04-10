@@ -9,6 +9,9 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
+#### April 10 - April 24
+* Math 30 book pages 291-294, 298-302, 306-308, 312-316, 320-324, 327-330, 332-336, 339-344, 349-352, 356-370.
+
 #### April 3 - April 9
 * Finish all outstanding tests / assignments 
 * Start polynomials handout 
