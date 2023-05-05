@@ -9,7 +9,7 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
-#### May 6 - 13 
+#### May 6 - May 13 
 * Finish ALL polynomial handouts / homework. 
 * Polynomials test opens. 
 
