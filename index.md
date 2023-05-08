@@ -52,7 +52,7 @@ Welcome to our Math 20-1 course page. Here you will find important dates, class 
 * **Trigonometry Unit Test:** February 5-11 in testing centre (or Feb 8 in class)
 * **Function Operation and Radicals Unit Test: March 22 - March 31**
 * **Rational Functions Unit Test: March 20 - April 7**
-* **Polynomials Unit Test: May 6 - 13**
+* **Polynomials Unit Test: May  8 - 17**
 * **Exponents and Logs Unit Test: **
 
 <!---  
