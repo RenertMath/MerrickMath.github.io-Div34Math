@@ -9,9 +9,10 @@ show_downloads: FALSE
 Welcome to our Math 20-1 course page. Here you will find important dates, class materials and more. Please remember to frequently check this page for updates. To access the schoology page use this code: HRGC-TB6H-K38HK. 
 
 ### Homework
-#### May 21 - June 12
+#### May 21 - June 18
 * Exponents and Logarithms Booklet packet. 
-* Math 12 Exponents and Logarithms Assignments 
+* Math 12 Exponents and Logarithms Assignments.
+* Fill out check in survey located <a href = "https://forms.gle/NEQRzTovybpmRxqq8"> here. </a>
 
 #### May 15 - May 21 
 * Exponents and Logarithms Booklet packet. 
