@@ -14,7 +14,7 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 ### Homework
 
 ### Important Dates 
-* **Unit 1 Test:** September 28
+<!--- * **Unit 1 Test:** September 28 ---> 
 
 <!---  
 * Transformations Test: 
