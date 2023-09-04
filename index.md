@@ -12,23 +12,20 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 <!--- To access the schoology page use this code: HRGC-TB6H-K38HK. ---> 
 
 ### Homework
+* **September 5-11:** Finish chapter 1 packet in FULL. 
+* **September 12-18:**  
 
 ### Important Dates 
-<!--- * **Unit 1 Test:** September 28 ---> 
-
-<!---  
-* Transformations Test: 
-* Quadratics Functions and Equations Test: 
-* Linear and Quadratics Inequalities Test: 
-* Absolute Values Functions and Reciprocal Functions: 
-* Trigonometry 20 Test: 
-* Function Operations Test: 
-* Transformation Review Test: 
-* Radical and Rational Functions Test: 
-* Polynomials Test: 
----> 
-
-### In Class Materials 
+* **Unit 1 Test:** September 18 
+<!--- * **Unit 2 Test:**
+* **Unit 3 Test:**
+* **Unit 4 Test:**
+* **Unit 5 Test:**
+* **Unit 6 Test:**
+* **Unit 7 Test:**
+* **Unit 8 Test:**
+* **Unit 9 Test:**
+* **Unit 10 Test:** --->
 
 #### Mini Math 
 <!--- * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/MiniMath/September9.pdf"> September 9 </a>: Factoring ---> 
