@@ -17,16 +17,6 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 
 ### Important Dates 
 * **Unit 1 Test:** September 18
-  
-<!--- * **Unit 2 Test:**
-* **Unit 3 Test:**
-* **Unit 4 Test:**
-* **Unit 5 Test:**
-* **Unit 6 Test:**
-* **Unit 7 Test:**
-* **Unit 8 Test:**
-* **Unit 9 Test:**
-* **Unit 10 Test:** --->
 
 #### Mini Math 
 <!--- * <a href = "https://merrickmath.github.io/MerrickMath.github.io-Div34Math/Activities/MiniMath/September9.pdf"> September 9 </a>: Factoring ---> 
