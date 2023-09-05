@@ -16,7 +16,8 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 * **September 12-18:**  
 
 ### Important Dates 
-* **Unit 1 Test:** September 18 
+* **Unit 1 Test:** September 18
+  
 <!--- * **Unit 2 Test:**
 * **Unit 3 Test:**
 * **Unit 4 Test:**
