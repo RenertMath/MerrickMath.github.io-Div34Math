@@ -15,7 +15,7 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 * **September 5-14:** Finish chapter 1 packet in FULL. 
 
 ### Important Dates 
-* **Unit 1 Test:** September 15
+* **Unit 1 Test:** September 20
 
 
 
