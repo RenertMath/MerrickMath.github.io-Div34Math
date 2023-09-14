@@ -12,10 +12,12 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 <!--- To access the schoology page use this code: HRGC-TB6H-K38HK. ---> 
 
 ### Homework
-* **September 5-14:** Finish chapter 1 packet in FULL. 
+* **September 5-14:** Finish Unit 1 packet in FULL.
+* **September 14-26:** Finish Unit 2 packet in FULL. 
 
 ### Important Dates 
 * **Unit 1 Test:** September 20
+* **Unit 2 Test:** September 28 
 
 
 
