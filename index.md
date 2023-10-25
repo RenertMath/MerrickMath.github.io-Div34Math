@@ -20,7 +20,8 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 ### Important Dates 
 * **Unit 1 Test:** September 20
 * **Unit 2 Test:** October 3
-* **Unit 2 Retest:** November 1
+* **Unit 3 Test:** October 19
+* **Unit 3 Retest:** November 1
 
 
 
