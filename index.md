@@ -15,7 +15,8 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 * **September 5-14:** Finish Unit 1 packet in FULL.
 * **September 14-26:** Finish Unit 2 packet in FULL. 
 * **September 27 - October 16:** Finish Unit 3 packet in FULL. Review Unit 2 Packet. 
-* **October 17 - 31:** Finish exponents review packet. 
+* **October 17 - 31:** Finish exponents review packet.
+* **Nov 2 - 12:** Review exponents. Finish Chapter 6 handout. 
   
 ### Important Dates 
 * **Unit 1 Test:** September 20
