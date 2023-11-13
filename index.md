@@ -23,7 +23,7 @@ Welcome to our Grade 7 course page. Here you will find important dates, class ma
 * **Unit 2 Test:** October 3
 * **Unit 3 Test:** October 19
 * **Unit 3 Retest:** November 1 / November 14 (Based on preference)
-
+* **Beaver Computer Challenge:** November 15
 
 
 
